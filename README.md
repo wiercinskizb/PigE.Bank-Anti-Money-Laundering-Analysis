@@ -1,4 +1,4 @@
-# PigE.Bank-Anti-Money-Laundering-Analysis
+# PigE.Bank Anti Money Laundering Analysis
 ## Project Summary
 Pig E. Bank, a prominent global financial institution, is seeking analytical support for its anti-money laundering compliance department. Their objective is to identify key indicators that signal a customer may leave the bank to enhance customer retention. The goal is to pinpoint the primary risk factors contributing to client loss and model these factors using a decision tree.
 ## Data source
