@@ -13,6 +13,9 @@ Description of folder contents are as follows:
   - 'Prepared Data': Cleaned data ready for analysis.
 - 03 Scripts: Python code for the analysis, executed using Jupyter notebooks.
 - 04 Analysis: Contains excel documentation for exploratory analysis, insights, top risk factors, and decision tree model.
+## Systems Used
+- Python - Analysis & Vizualization
+- Excel - Final Report
 ## Code Overview
 - Code was written in Python and executed in Jupyter notebooks.
   - Python libraries:
