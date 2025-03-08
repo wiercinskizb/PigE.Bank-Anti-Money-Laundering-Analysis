@@ -22,7 +22,8 @@ Description of folder contents are as follows:
     * Pandas: For data manipulation and analysis
     * NumPy: For numerical operations and array handling
     * OS: For interacting with the operating system, including file and directory operations
-- Further analysis conducted using Excel.
-- Decision tree crafted using SmartDraw.
-## Disclaimer
-Pig E. Bank is a fictitious company, and all data used for this analysis was used for the purposes of Career Foundry's Data Analytics program.
+    * Seaborn
+    * Matplotlib
+    * Statsmodels.api
+    * Sklearn
+    * Pylab
